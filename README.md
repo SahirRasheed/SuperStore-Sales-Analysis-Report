@@ -1,72 +1,71 @@
-Super Store Sales - Power BI Project
+# Super Store Sales - Power BI Project
 
-📌 Situation
+## 📌 Situation
 
-Global Super Store is an online supergiant store that operates worldwide. It takes orders and delivers products across the globe, dealing with major product categories like Furniture, Office Supplies, and Technology.
+Global Super Store is an online supergiant store that operates worldwide. It takes orders and delivers products across the globe, dealing with major product categories like **Furniture, Office Supplies, and Technology**.
 
-As a Sales Manager, analyzing historical sales data is crucial for planning inventory, optimizing business processes, and understanding product and customer behavior. This Power BI report provides insights to support data-driven decision-making.
+As a **Sales Manager**, analyzing historical sales data is crucial for planning inventory, optimizing business processes, and understanding product and customer behavior. This Power BI report provides insights to support data-driven decision-making.
 
-🎯 Output
+---
+
+## 🎯 Output
 
 The final report contains the following two pages:
 
-Sales Summary
+1. **Sales Summary**
+2. **Q&A Analysis**
 
-Q&A Analysis
+---
 
-🔧 Task Performed
+## 🔧 Task Performed
 
-Data Preparation:
+1. **Data Preparation:**
 
-Loaded data from provided Excel workbooks.
+   - Loaded data from provided **Excel workbooks**.
+   - Performed necessary **data transformations** in Power Query Editor.
+   - Established **relationships** between tables.
 
-Performed necessary data transformations in Power Query Editor.
+2. **Measure Creation:**
 
-Established relationships between tables.
+   - Developed key performance indicators (**KPIs**) such as:
+     - **Sales**
+     - **Profit**
+     - **Profit Ratio**
+     - **Year-on-Year Growth**
+   - Efficient use of **aggregators, iterators, and time intelligence functions**.
 
-Measure Creation:
+3. **Visualization & Analysis:**
 
-Developed key performance indicators (KPIs) such as:
+   - Created **dynamic visuals** based on dimensions like:
+     - **Category, Year, Region, Market, Sub-category, Manager**
+   - Added **key slicers** for interactive analysis.
+   - Trained the **Q&A data model** with synonyms:
+     - **Revenue → Sales**
+     - **Income → Profit**
+     - **Income Percentage → Profit Ratio**
 
-Sales
+---
 
-Profit
+## 🚀 Additional Features
 
-Profit Ratio
+1. **Row-Level Security (RLS):** Implemented security based on **different regions**.
+2. **Dynamic Visuals:** Utilized **parameters and bookmarks** for better interactivity.
+3. **Custom Tooltips:** Designed detailed tooltips for **market region insights**.
 
-Year-on-Year Growth
+---
 
-Efficient use of aggregators, iterators, and time intelligence functions.
+## 📂 Repository Contents
 
-Visualization & Analysis:
+- 📊 **Power BI Report File (.pbix)**
+- 📄 **Dataset (Excel)**
+- 📝 **Documentation & Insights**\
 
-Created dynamic visuals based on dimensions like:
 
-Category, Year, Region, Market, Sub-category, Manager
+---
 
-Added key slicers for interactive analysis.
+### 📢 Let's Connect!
 
-Trained the Q&A data model with synonyms:
+If you have any suggestions or improvements, feel free to reach out. 🚀
 
-Revenue → Sales
-
-Income → Profit
-
-Income Percentage → Profit Ratio
-
-🚀 Additional Features
-
-Row-Level Security (RLS): Implemented security based on different regions.
-
-Dynamic Visuals: Utilized parameters and bookmarks for better interactivity.
-
-Custom Tooltips: Designed detailed tooltips for market region insights.
-
-📂 Repository Contents
-
-📊 Power BI Report File (.pbix)
-
-📄 Dataset (Excel)
-
-📝 Documentation & Insights
+**🔗 Follow & Star ⭐ the Repository for Updates!**
 
