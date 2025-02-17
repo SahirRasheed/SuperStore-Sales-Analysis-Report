@@ -1,4 +1,4 @@
-# Super Store Sales - Power BI Project
+# SuperStore Sales Analysis   - Power BI Project
 
 ## 📌 Situation
 
