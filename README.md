@@ -59,7 +59,7 @@ The final report contains the following two pages:
 
 - 📊 **[PBIX File](./Superstore Sales Analysis Dashboard.pbix)**: Power BI project file.  
 - 📄  **[Dataset](./DataSet.zip)**: Netflix dataset in Excel format.  
-- 📝 **[Screenshots](./Screenshot Page1.png)**: Sample dashboard visuals.  
+- 📝 **[Screenshots](./Screenshot Page1)**: Sample dashboard visuals.  
 
 
 ---
@@ -68,7 +68,11 @@ The final report contains the following two pages:
 
 ![Screenshot Page1](https://github.com/user-attachments/assets/01dbe816-fb2e-42cd-8f9e-97704319a89d)
 
-![Screenshot Page2](https://github.com/user-attachments/assets/266c1f58-81f6-445b-a842-e41ed825e56f)
+
+
+
+![Screenshot Page2](https://github.com/user-attachments/assets/bd4aa7b5-de40-4f6a-82a7-36a8f5774bc6)
+
 
 
 
