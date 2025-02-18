@@ -57,11 +57,9 @@ The final report contains the following two pages:
 
 ## 📂 Repository Contents
 
-- 📊 **[PBIX File](.SuperStore-Sales-Analysis-Report
-/Superstore Sales Analysis Dashboard.pbix
-)**: Power BI project file.  
+- 📊 **[PBIX File](./Superstore Sales Analysis Dashboard.pbix)**: Power BI project file.  
 - 📄  **[Dataset](./DataSet.zip)**: SuperStore dataset in Excel format.  
-- 📝 **[Screenshots](./Screenshot Page1)**: Sample dashboard visuals.  
+- 📝 **[Screenshots](./Screenshot Page1.png)**: Sample dashboard visuals.  
 
 
 ---
