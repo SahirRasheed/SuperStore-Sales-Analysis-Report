@@ -52,20 +52,30 @@ The final report contains the following two pages:
 2. **Dynamic Visuals:** Utilized **parameters and bookmarks** for better interactivity.
 3. **Custom Tooltips:** Designed detailed tooltips for **market region insights**.
 
+
 ---
 
 ## 📂 Repository Contents
 
-- 📊 **Power BI Report File (.pbix)**
-- 📄 **Dataset (Excel)**
-- 📝 **Documentation & Insights**\
+- 📊 **[PBIX File](./Superstore Sales Analysis Dashboard.pbix)**: Power BI project file.  
+- 📄  **[Dataset](./DataSet.zip)**: Netflix dataset in Excel format.  
+- 📝 **[Screenshots](./Screenshot Page1.png)**: Sample dashboard visuals.  
 
 
 ---
+
+## Screenshots
+
+![Screenshot Page1](https://github.com/user-attachments/assets/01dbe816-fb2e-42cd-8f9e-97704319a89d)
+
+![Screenshot Page2](https://github.com/user-attachments/assets/266c1f58-81f6-445b-a842-e41ed825e56f)
+
+
 
 ### 📢 Let's Connect!
 
 If you have any suggestions or improvements, feel free to reach out. 🚀
 
-**🔗 Follow & Star ⭐ the Repository for Updates!**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sahir-rasheed-5686121a0/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/SahirRasheed)
 
