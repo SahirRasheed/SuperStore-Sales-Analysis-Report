@@ -66,6 +66,13 @@ The final report contains the following two pages:
 
 ## Screenshots
 
+1. **Data Model:**
+
+![image](https://github.com/user-attachments/assets/3c8dd6b3-07a7-4222-9cd3-521b513e73f1)
+
+2. **Report:**
+
+
 ![Screenshot Page1](https://github.com/user-attachments/assets/01dbe816-fb2e-42cd-8f9e-97704319a89d)
 
 
